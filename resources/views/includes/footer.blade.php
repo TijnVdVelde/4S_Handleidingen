@@ -1,6 +1,9 @@
 
 <footer>
 	© {{ __('misc.copyright') }}
+  {{ __('misc.about_us') }}
+  {{ __('misc.contact') }}
+  {{ __('misc.social') }}
 </footer>
 
 
