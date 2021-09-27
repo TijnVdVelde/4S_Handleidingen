@@ -18,6 +18,5 @@ class BrandController extends Controller
             "types"=>$types,
             "brand"=>$brand
         ]);
-
     }
 }

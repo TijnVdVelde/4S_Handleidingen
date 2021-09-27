@@ -8,12 +8,13 @@
 
 @section('content')
 
+    <p>{{ $name }}</p>
+
     <h1>
         @section('title')
             {{ __('misc.all_brands') }}
         @show
     </h1>
-
 
     <?php
     $size = count($brands);
